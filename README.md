@@ -74,32 +74,6 @@
 
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sanikachavan2151-creator/sanikachavan2151-creator/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-> ⚙️ This snake animation needs a one-time GitHub Actions setup — instructions are below.
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikachavan2151-creator&repo=Mini-project-ai-career-recommendation-&theme=tokyonight&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikachavan2151-creator&repo=NumPy-Data-Explorer&theme=tokyonight&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikachavan2151-creator&repo=dbmsmini&theme=tokyonight&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikachavan2151-creator&repo=pythonproject1&theme=tokyonight&hide_border=true" width="45%"/>
-
-</div>
-
----
 
 ### 🌐 Connect With Me
 
